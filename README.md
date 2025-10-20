@@ -79,6 +79,11 @@ To deliver a data-driven view of car sales performance by analyzing trends, grow
 
 - Data Cleaning & Aggregation – Conducted in Tableau Prep and Excel.
 
+## 📷 Dashboard Preview 
+
+![Dashboard Preview](https://github.com/Geetansh2211/Automotive-Market-Analytics/blob/main/Automotive%20Market%20Analytics.png)
+
+
 ## 🚀 Key Learnings
 
 - Developed a strong understanding of automotive market analytics and sales forecasting.
